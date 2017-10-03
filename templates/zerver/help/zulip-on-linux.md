@@ -20,7 +20,6 @@ press **Save**.
     write `http://` manually before the server's URL. A message will appear, warning you about the risks
     of using this type of connections. In case you have no other choice, choose the
     **Use HTTP** option.
-    
 
 ### Logging in
 
@@ -33,7 +32,6 @@ then press **Sign in**.
 * If you prefer to log in with your Google or GitHub account,then press the **Sign in with Google** or **Sign in with GitHub** button.
 
     ![Login form](/static/images/help/linux-log-in.png)
-    
 
 ### Adding another server
 
